@@ -1,0 +1,4 @@
+	0
+0	"""I'll have some chips and guacamole please"", ""No, sorry, we are out."" ""Ok, I'll have a Jamaica to drink"" ""no, sorry, we are out"". 
+
+This is becoming a regular thing here.  Too bad cause the food is very good."

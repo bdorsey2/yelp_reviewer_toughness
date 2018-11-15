@@ -1,0 +1,14 @@
+	0
+0	"Me: I'll have a plain coffee off the drip. 
+
+Server: I'm sorry, but we just ran out of coffee. I can fill it about this far from the top. (Gestures 2 inches with fingers)
+
+Me: I can do a decaf instead. 
+
+Server: We don't have that either.  We'll have more brewed in a few minutes. 
+
+Me: Can you fill my cup the rest of the way if I stop by in a few minutes?
+
+Server: We don't really do that. 
+
+Result: 2 Stars"

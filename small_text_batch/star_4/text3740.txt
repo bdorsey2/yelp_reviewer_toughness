@@ -1,0 +1,26 @@
+	0
+0	"Accessibility (Parking / Wait Time)
+
+1/1 Star: no wait
+
+_____
+
+Service (Waiter / Cleanness / Ambiance)
+
+0/1 Star: fast food style. Not much standing room. 
+
+_____
+
+Taste (0=Not Edible / 1=Edible / 2=Good (average) / 3=Must Try!)
+
+3/3 Stars: pizza here is really good! One of my favorite eats my last trip to Vegas. The slice with the home made meatball and pepperoni is a Must Try!
+
+_____
+
+Overall Experience
+4/5 Stars 
+
+_____
+
+Last Words
+I enjoyed the pinball machine too"
