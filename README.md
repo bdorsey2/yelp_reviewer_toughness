@@ -1,4 +1,4 @@
-# show_me_the_data
+# Yelp Reviewer Toughness Classification
 
 This repository documents the creation of a Machine Learning model to classify Yelp Reviewers as hard, medium, or easy reviewers.   While a lot of work has been done on the Yelp dataset we used, most of it had focused on restaurants, not users. 
 
