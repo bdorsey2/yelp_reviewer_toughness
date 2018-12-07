@@ -11,10 +11,15 @@ The most performant models were MultiNomial Logistic Regression, Support Vector 
 MultiNomial Logistic Regression performed the best overall.   Besides code for our final models, we’ve included our data processing, exploratory data analysis, and preliminary models.
 
 Main project notebook files:
+
 yelp_data_processing.ipynb - pre-processing code
+
 hard_easy_reviewer_model-v2.ipynb - modeling code
+
 cust_stop_words.py - custom stop words set
+
 plots.py - finalized plots built from pre processing code
+
 yelp_deck_v2.pdf - Presentation slides
 
 DataSet: https://www.yelp.com/dataset
