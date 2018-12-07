@@ -1,6 +1,0 @@
-### most_common_word_review_pt1.py ###
-Note before running the script: Make sure yelp_academic_dataset_review.json is in the same directory.
-Command: python most_common_word_review_pt1.py
-
-### most_common_word_review_pt2.py ###
-Command: spark-submit most_common_word_review_pt2.py
